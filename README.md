@@ -30,9 +30,6 @@
 ### 🚀 What I Do
 
 - 🐍 **Python Development:** Writing lightweight CLI applications, automation scripts, and utility tools.
-- 📱 **App & Web Experiments:** Working with Dart/Flutter and front-end tools for small side-projects.
-- ⚡ **Hosting & Backend:** Deploying sites via Vercel and using Firebase for basic infrastructure.
-- 🎯 **Current Focus:** Improving code quality, learning new frameworks, and building practical tools.
 
 ---
 
