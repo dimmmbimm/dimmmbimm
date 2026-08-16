@@ -22,7 +22,7 @@
 ### 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,html,css,git,github,vscode,firebase,vercel&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vim&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
