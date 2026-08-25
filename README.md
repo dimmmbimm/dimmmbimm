@@ -27,11 +27,3 @@
 - 🐍 **Python Development:** Writing lightweight CLI applications, automation scripts, and utility tools.
 
 ---
-
-### 📊 Activity
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimmmbimm&theme=dark&background=0D1117&fire=00ff66&ring=00ff66&currStreakLabel=00ff66" alt="GitHub Streak" />
-
-</div>
