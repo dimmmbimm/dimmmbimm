@@ -12,9 +12,3 @@
 
 </div>
 
----
-### 🚀 What I Do
-
-- 🐍 **Python Development:** Writing lightweight CLI applications, automation scripts, and utility tools.
-
----
