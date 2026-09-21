@@ -13,15 +13,6 @@
 </div>
 
 ---
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vim&theme=dark" alt="Tech Stack" />
-</p>
-
----
-
 ### 🚀 What I Do
 
 - 🐍 **Python Development:** Writing lightweight CLI applications, automation scripts, and utility tools.
